@@ -31,7 +31,7 @@ function GitHubUser({login}) {
               params={{ 
                 particles: { 
                     number: { 
-                      value: 100, 
+                      value: 120, 
                         density: { 
                           enable: true, 
                           value_area: 1000,
